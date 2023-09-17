@@ -4,15 +4,16 @@
 2) Cybersecurity is a type of information security. Protection of technical systems from penetration and theft, hacking or blocking of electronic data.
 
 3) To ensure proper and confident cyber protection, I would recommend:
-1. Use effective technical means of protection:
+
+1 Use effective technical means of protection:
 -Latest anti-virus protection systems with built-in isolated environment.
 -Automated tools for analyzing security and identifying vulnerabilities in software.
 -VPN
-3. Protect your data:
+2 Protect your data:
 - Do not store sensitive information in the clear or in the public domain.
 -Use different accounts and passwords to access different resources.
 -Use two-factor authentication where possible, such as to protect privileged accounts.
-4. Control the security of systems:
+3 Control the security of systems:
 -Timely update the software used as patches are released.</p>
 
 Links that I used:
