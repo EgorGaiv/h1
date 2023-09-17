@@ -9,10 +9,12 @@
 -Latest anti-virus protection systems with built-in isolated environment.
 -Automated tools for analyzing security and identifying vulnerabilities in software.
 -VPN
+
 2 Protect your data:
 - Do not store sensitive information in the clear or in the public domain.
 -Use different accounts and passwords to access different resources.
 -Use two-factor authentication where possible, such as to protect privileged accounts.
+
 3 Control the security of systems:
 -Timely update the software used as patches are released.</p>
 
