@@ -7,16 +7,16 @@
 
 <p>1 Use effective technical means of protection:</p>
 <p>-Latest anti-virus protection systems with built-in isolated environment.</p>
-<p>-Automated tools for analyzing security and identifying vulnerabilities in software.
--VPN</p>
+<p>-Automated tools for analyzing security and identifying vulnerabilities in software.</p>
+<p>-VPN</p>
 
-2 Protect your data:
-- Do not store sensitive information in the clear or in the public domain.
--Use different accounts and passwords to access different resources.
--Use two-factor authentication where possible, such as to protect privileged accounts.
+<p>2 Protect your data:</p>
+<p>-Do not store sensitive information in the clear or in the public domain.</p>
+<p>-Use different accounts and passwords to access different resources.</p>
+<p>-Use two-factor authentication where possible, such as to protect privileged accounts.</p>
 
-3 Control the security of systems:
--Timely update the software used as patches are released.</p>
+<p>3 Control the security of systems:</p>
+<p>-Timely update the software used as patches are released.</p>
 
 Links that I used:
 https://www.microsoft.com/ru-ru/security/business/security-101/what-is-cybersecurity
