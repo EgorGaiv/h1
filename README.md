@@ -7,8 +7,8 @@
 
 <p>1 Use effective technical means of protection:</p>
 <p>-Latest anti-virus protection systems with built-in isolated environment.</p>
--Automated tools for analyzing security and identifying vulnerabilities in software.
--VPN
+<p>-Automated tools for analyzing security and identifying vulnerabilities in software.
+-VPN</p>
 
 2 Protect your data:
 - Do not store sensitive information in the clear or in the public domain.
